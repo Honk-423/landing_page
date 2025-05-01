@@ -6,3 +6,11 @@ body {
 .header {
     background-color: #1F2937;
 }
+
+.image-placeholder {
+    /* display: flex;   
+    justify-content: center; */
+    background-color: #949ca2;
+    height: 250px;
+    width: 500px;
+}
