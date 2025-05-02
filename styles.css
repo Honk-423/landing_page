@@ -1,3 +1,7 @@
+* {
+    border: 1px dotted salmon;
+}
+
 body {
     box-sizing: border-box;
     margin: 0px;
@@ -6,6 +10,24 @@ body {
 .header {
     background-color: #1F2937;
 }
+
+/*
+.header.top {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px -75px;
+}
+*/
+
+
+/*
+.header.center {
+    display: flex;
+    justify-content: center;
+}
+*/
+
+/* How do I get these two divs aligned perfectly*/
 
 .image-placeholder {
     /* display: flex;   
