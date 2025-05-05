@@ -30,20 +30,19 @@ p {
 
 .header.top {
     display: flex;
-    /* justify-content: space-between;
-    flex-direction: row;
+    justify-content: space-between;
     min-width: 1025px;
-    margin: 15px 0px 80px; */
+    /* margin: 15px 0px 80px; */
 }
 
 .header.links {
     display: flex;
-    /* gap: 30px; */
+    gap: 30px;
 } 
 
 .header.center {
     display: flex;
-    /* gap: 75px; */
+    gap: 75px;
 } 
 
 /* How do I get these two divs aligned perfectly*/
