@@ -32,7 +32,7 @@ p {
     display: flex;
     justify-content: space-between;
     min-width: 1025px;
-    /* margin: 15px 0px 80px; */
+    margin: 15px 0px 80px;
 }
 
 .header.links {
