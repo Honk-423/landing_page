@@ -40,6 +40,10 @@ p {
     gap: 30px;
 } 
 
+.header.text {
+    width: 456px;
+}
+
 .header.center {
     display: flex;
     gap: 75px;
