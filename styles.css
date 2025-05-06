@@ -51,6 +51,12 @@ p {
     width: 456px;
 }
 
+.header.links,
+.header .text p,
+.image-placeholder {
+    color: #E5E7EB;
+}
+
 .header.center {
     display: flex;
     align-items: center;
