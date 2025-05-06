@@ -87,3 +87,8 @@ button {
     height: 200px;
     width: 420px;
 }
+
+h2 {
+    text-align: center;
+    margin: 25px 0px;
+}
