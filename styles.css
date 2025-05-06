@@ -50,6 +50,13 @@ p {
     margin: 80px 0px;
 } 
 
+button {
+    padding: 4px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 8px 0px;
+}
+
 /* How do I get these two divs aligned perfectly*/
 
 .image-placeholder {
