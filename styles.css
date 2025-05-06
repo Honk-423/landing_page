@@ -93,6 +93,20 @@ h2 {
     margin: 25px 0px;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.sub-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* font-size: 18px; */
+    /* text-align: center;
+    width: 134px; */
+}
+
 .box {
     height: 80px;
     width: 80px;
