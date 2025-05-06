@@ -58,11 +58,7 @@ button {
     margin: 8px 0px;
 }
 
-/* How do I get these two divs aligned perfectly*/
-
 .image-placeholder {
-    /* display: flex;   
-    justify-content: center; */
     background-color: #949ca2;
     height: 200px;
     width: 420px;
