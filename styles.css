@@ -96,7 +96,7 @@ h2 {
 .container {
     display: flex;
     justify-content: center;
-    /* gap: 30px; */
+    gap: 30px;
 }
 
 .sub-container {
@@ -105,7 +105,7 @@ h2 {
     align-items: center;
     font-size: 18px;
     text-align: center;
-    /* width: 160px; */
+    width: 160px;
 }
 
 .box {
