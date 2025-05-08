@@ -129,6 +129,9 @@ h2 {
     flex: 0;
     height: 350px;
     background-color: #E5E7EB;
-    font-size: 36px;
     padding: 50px 216px;
+}
+
+.quote-big-text {
+    font-size: 36px;
 }
