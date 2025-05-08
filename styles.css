@@ -134,4 +134,6 @@ h2 {
 
 .quote-big-text {
     font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
 }
