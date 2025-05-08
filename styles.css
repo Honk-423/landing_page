@@ -93,10 +93,10 @@ h2 {
     margin: 25px 0px;
 }
 
-/* .body {
+.body {
     display: flex;
     flex-direction: column;
-} */
+}
 
 .body-container {
     display: flex;
@@ -126,7 +126,7 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: flex-end;
-    /* flex: 0; */
+    flex: 0;
     height: 350px;
     background-color: #E5E7EB;
     font-size: 36px;
