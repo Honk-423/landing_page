@@ -122,11 +122,11 @@ h2 {
 }
 
 .quote {
-    /* display: flex;
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-end;
-    flex: 0; */
+    /* flex: 0; */
     height: 350px;
     background-color: #E5E7EB;
     font-size: 36px;
