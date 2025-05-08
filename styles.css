@@ -129,7 +129,7 @@ h2 {
     flex: 0;
     height: 350px;
     background-color: #E5E7EB;
-    padding: 100px 250px;
+    padding: 100px 280px;
 }
 
 .quote-big-text {
@@ -140,4 +140,5 @@ h2 {
 
 .quote-small-text {
     font-weight: 600;
+    margin-right: 66px;
 }
