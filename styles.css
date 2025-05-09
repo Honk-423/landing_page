@@ -1,10 +1,4 @@
-/*
-* {
-    border: 1px dotted salmon;
-}
- */
-
- @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
     font-family: "Roboto", sans-serif;
@@ -161,4 +155,13 @@ h4 {
 
 .action button {
     border: 1.5px solid white;
+}
+
+.footer {
+    /* display: flex; */
+    height: 70px;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    /* justify-content: center;
+    align-items: center; */
 }
