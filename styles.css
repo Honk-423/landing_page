@@ -144,14 +144,18 @@ h2 {
 }
 
 .call-to-action {
+    display: flex;
     background-color: #3882F6;
-    margin: 60px 170px;
+    padding: 40px 100px;
     border: none;
     border-radius: 6px;
+    margin: 60px 170px;
 }
 
 h4 {
     margin: 0px;
 }
 
-/* Display flex column. call-to-action button, white outline and flex grow 0. H4 margin 0.*/
+/* .action button {
+    border: 1.5px solid white;
+} */
