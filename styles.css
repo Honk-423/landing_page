@@ -16,7 +16,10 @@ body {
     align-items: center;
 }
 
-.logo, h1, button {
+.logo,
+h1,
+button,
+h4 {
     color: #F9FAF8
 }
 
@@ -147,10 +150,15 @@ h2 {
     border: none;
     border-radius: 6px;
     margin: 60px 170px;
+    /* 70px  */
 }
 
 h4 {
     margin: 0px;
+}
+
+.call-to-action p {
+    color: #E5E7EB;
 }
 
 .action button {
