@@ -146,6 +146,7 @@ h2 {
 
 .call-to-action {
     display: flex;
+    justify-content: space-between;
     background-color: #3882F6;
     padding: 40px 100px;
     border: none;
