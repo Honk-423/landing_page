@@ -59,7 +59,7 @@ p {
 
 .header.links,
 .header .text p,
-.image-placeholder {
+.placeholder {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -79,7 +79,7 @@ button {
     margin: 8px 0px;
 }
 
-.image-placeholder {
+.placeholder {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -98,14 +98,15 @@ h2 {
     flex-direction: column;
 }
 
-.body-container {
+.body.container {
     display: flex;
+    flex-direction: row;
     justify-content: center;
     gap: 30px;
     margin-bottom: 120px;
 }
 
-.sub-container {
+.body.sub-container {
     display: flex;
     flex-direction: column;
     align-items: center;
