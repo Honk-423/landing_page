@@ -84,6 +84,14 @@ button {
     margin: 8px 0px;
 }
 
+button:hover {
+    background-color: #2d6ac9;
+}
+
+button:active {
+    background-color: #1a4891;
+}
+
 .placeholder {
     display: flex;
     justify-content: center;
