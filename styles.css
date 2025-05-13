@@ -50,6 +50,14 @@ p {
     gap: 30px;
 }
 
+a:hover {
+    color: #8d8f92;
+}
+
+a:active {
+    color: #3e3f40;
+}
+
 .header.text {
     width: 456px;
 }
